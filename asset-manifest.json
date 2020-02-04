@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory-game-curb/static/css/main.059d8acb.chunk.css",
+    "main.css": "/memory-game-curb/static/css/main.8362848f.chunk.css",
     "main.js": "/memory-game-curb/static/js/main.c876e7c5.chunk.js",
     "main.js.map": "/memory-game-curb/static/js/main.c876e7c5.chunk.js.map",
     "runtime-main.js": "/memory-game-curb/static/js/runtime-main.6d28f72b.js",
@@ -8,15 +8,15 @@
     "static/js/2.f73c2ac4.chunk.js": "/memory-game-curb/static/js/2.f73c2ac4.chunk.js",
     "static/js/2.f73c2ac4.chunk.js.map": "/memory-game-curb/static/js/2.f73c2ac4.chunk.js.map",
     "index.html": "/memory-game-curb/index.html",
-    "precache-manifest.9be8fea1986817ca4ba4244fc0aaf334.js": "/memory-game-curb/precache-manifest.9be8fea1986817ca4ba4244fc0aaf334.js",
+    "precache-manifest.49844fce0bdd8f7b5693c6d6120e381c.js": "/memory-game-curb/precache-manifest.49844fce0bdd8f7b5693c6d6120e381c.js",
     "service-worker.js": "/memory-game-curb/service-worker.js",
-    "static/css/main.059d8acb.chunk.css.map": "/memory-game-curb/static/css/main.059d8acb.chunk.css.map",
+    "static/css/main.8362848f.chunk.css.map": "/memory-game-curb/static/css/main.8362848f.chunk.css.map",
     "static/js/2.f73c2ac4.chunk.js.LICENSE.txt": "/memory-game-curb/static/js/2.f73c2ac4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6d28f72b.js",
     "static/js/2.f73c2ac4.chunk.js",
-    "static/css/main.059d8acb.chunk.css",
+    "static/css/main.8362848f.chunk.css",
     "static/js/main.c876e7c5.chunk.js"
   ]
 }
