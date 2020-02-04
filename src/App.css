@@ -2,37 +2,86 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  font-family: 'Karla', sans-serif;
+  background-color: #f6f1ee;
+  background-repeat: no-repeat; 
+  background-position: center;
+  background-size: cover;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+img {
+  width: 400px; 
+  height: 250px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+li {
+  margin: 0 1rem;
+}
+
+nav {
+  background-color: #4e6777;
+  margin-bottom: 0px;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 4;
+}
+
+h1 {
+  font-family: 'Archivo Black', sans-serif;
   color: white;
+  text-align: center;
+  font-size: 5rem;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 2px #4e6777;
 }
 
-.App-link {
-  color: #61dafb;
+h3 {
+  font-family: 'Archivo Black', sans-serif;
+  color: white;
+  text-align: center;
+  font-size: 2.5rem;
+  line-height: 0rem;
+  margin-top: 3rem;
+  text-shadow: 2px 2px 2px #4e6777;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-stacked{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 60px;
 }
+
+.description {
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.scoretitle {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+}
+
+#jumbotron {
+  margin-top: 0px;
+  background: linear-gradient( rgba(0, 0, 0, 0.5)), url('/images/background.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #f6b856;
+  min-height: 350px;
+}
+
+#rulebar-main {
+  background-color: salmon;
+  min-height: 100vh;
+}
+
